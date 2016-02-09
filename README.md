@@ -2,8 +2,6 @@
 GnuSBot aka. GSB is a GNUSocial bot written in PHP that fetches RSS/Feed entries and publish them to the the configured GNU Social accounts.
 <br />
 Just a first draft, feel free to request changes or collaborate. There's a lot to do better.
-<br />
-The script allows to publish multiple RSS feeds in multiple accounts/nodes.
 
 <h2>TODO</h2>
 * Put the username prefix in control filenames so there can be different things published in different accounts configured at different times, currently control file is per-website, so it assumes that when a post is published (quitted) it is done for all usernames/accounts
