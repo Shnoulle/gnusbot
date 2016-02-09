@@ -1,9 +1,12 @@
 <?php
 /**
- * Main GNU Social Bot (aka. GnuSBot or GSB)
- * @autor: @tuxxus
- * @url: http://www.tuxxus.com
- */
+ * GNU Social Bot (aka. GnuSBot or GSB) is a bot to publish rss/feeds to GNUSocial
+ *  
+ * @Autor: @tuxxus
+ * @Url: http://www.tuxxus.com
+ * @Version: 0.0.1
+ *  
+ **/
 
 require_once("inc/gnusbot-config.inc.php");
 require_once("inc/load-libs.inc.php");
